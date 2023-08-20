@@ -49,6 +49,18 @@ gap: 1.5rem;}
 .teams-title .of { color: #131313;}
 .teams-title .color{color: #FF900E;} 
 .team-description{ color:#727272 ; font-size: 1rem; font-weight: 400;}
+/*features styles*/
+.Features{ display: flex; margin-top: 150px;gap: 150px;}
+ .feature-title{font-size: 2.8rem;font-weight: 700;border-left: 5px solid #FF900E;padding-left: 20px; }
+.feature-content .card
+{padding: 30px;margin: 25px;cursor: pointer;
+  border-radius: 8px;
+  background: #FFF;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);;}
+
+
+
+
 
 /*fact section*/
 .fact-title{color: #131313;
